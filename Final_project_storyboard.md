@@ -6,4 +6,4 @@ Yet, another maxim in the world of political strategy is that it's okay to win u
 As such, despite consistent publication of new research, strategies implemented tend to be stagnant. 
 
 ### Most campaign tactics fall into the following buckets
-<img align="left" src="/campaigntactics.png" width=200 > ![](/campaigntactics.png)
+![](/campaigntactics.png)
