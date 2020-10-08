@@ -9,14 +9,8 @@ As such, despite consistent publication of new research, strategies implemented 
 ![](/campaigntactics.png)
 
 ### But recent research calls the entire persuasion bracket into question
-Researchers at UC Berkely and Stanford conducted a meta-analysis of 40 field experiments and 9 original field experiments to measure the true effect of campaign contact and advertising. 
- We argue that the best estimate of the effects of campaign
-contact and advertising on Americans’ candidates choices in general elections is zero. First,
-a systematic meta-analysis of 40 field experiments estimates an average effect of zero in general elections. Second, we present nine original field experiments that increase the statistical
-evidence in the literature about the persuasive effects of personal contact 10-fold. These experiments’ average effect is also zero. In both existing and our original experiments, persuasive
-effects only appear to emerge in two rare circumstances. First, when candidates take unusually unpopular positions and campaigns invest unusually heavily in identifying persuadable
-voters. Second, when campaigns contact voters long before election day and measure effects
-immediately—although this early persuasion decays.
+Researchers at UC Berkely and Stanford conducted a meta-analysis of 40 field experiments and 9 original field experiments to measure the true effect of campaign contact and advertising. This graph shows the average of their data for general elections: 
+<script type='text/javascript' src='https://prod-useast-b.online.tableau.com/javascripts/api/viz_v1.js'></script><div class='tableauPlaceholder' style='width: 1040px; height: 889px;'><object class='tableauViz' width='1040' height='889' style='display:none;'><param name='host_url' value='https%3A%2F%2Fprod-useast-b.online.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='&#47;t&#47;kgbolton' /><param name='name' value='campaignpersuasion&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='showAppBanner' value='false' /></object></div>
 
 ### GOTV holds more promise - but at what cost?
 
