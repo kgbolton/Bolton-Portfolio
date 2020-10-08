@@ -18,6 +18,10 @@ Get the base to the polls. Sounds simple, but a lot of factors impede would-be v
 
 source: https://www.brookings.edu/book/get-out-the-vote-2/
 ### Is persuasion really impossible - or are the current methods just bad at it?
+In the last few years, a strategy known as "Deep Canvassing" has gradually been subjected to the tests of scientific research. Earlier this year, a new paper conducted three experiments to separate and measure the effect of what is academically known as "non-judgmental exchange of narratives," whether they be in-person or by phone...
+--- show the treatment effect as a big number ----
+"Examining results on dichotomized versions of the individual items in the policy index, the average share of inclusive policies individuals strongly supported increased from 29% in the Placebo condition to 33% in the Full Intervention condition (p <0.01). For example, while the Abbreviated Intervention had no effect on individuals strongly supporting granting legal status to people who were brought to the US illegally as children and who have graduated from a U.S. high school, individuals assigned to the Full Intervention were __4.7 percentage points__ more likely to indicate strong support (p <0.04). Likewise, when dichotomizing the policy items by whether individuals supported each policy at all, instead of expressing indifference or opposition, the share of policies individuals supported at all increased by 2.2 percentage points in the Full Intervention condition (p= 0.058). Note again that all these estimates are intent-to-treat estimates and that the compliance-adjusted estimates would be larger."
+source: https://www.cambridge.org/core/journals/american-political-science-review/article/reducing-exclusionary-attitudes-through-interpersonal-conversation-evidence-from-three-field-experiments/4AA5B97806A4CAFBAB0651F5DAD8F223
+Perhaps the traditional methods of persuasion are the real problem, not the idea of persuasion itself. In conclusion...
 
-
-### Classic methods of persuasion just contribute to the noise of political theater. Campaigns are better off spending most of their dollars on turning out the base - with maybe a few to spare on attempts at innovation. 
+### Classic methods of persuasion just contribute to the noise of political theater. Campaigns are better off spending most of their dollars on turning out the base - with maybe a few to spare for high risk - and high promise - innovation. 
