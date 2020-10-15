@@ -1,0 +1,9 @@
+﻿Tactic,Average Treatment Effect (in percentage points),Lower bound (95%),Upper bound (95%)
+Canvass,-2.7625,-24.1025,18.5775
+Phone,-5.075,-21.1475,10.9975
+Mail,2.346363636,-5.719090909,10.41181818
+Literature Drop,5.1,-9.6,19.8
+Online Ads,0.55,-4.35,5.45
+Candidate Canvass,20.7,0.32,41.08
+TV,0.415,-2.22,3.045
+All,0.384137931,-12.50827586,13.2762069
