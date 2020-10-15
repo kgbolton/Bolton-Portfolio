@@ -37,7 +37,7 @@ The story is told based on my intuition of what would resonate with my hypotheti
 
 
 ### Final story
-https://carnegiemellon.shorthandstories.com/winning-elections/index.html
+[End result - Winning Elections is a Science](https://carnegiemellon.shorthandstories.com/winning-elections/index.html)
 
 I put this project together fairly quickly, and in being faced with time constraints I had to think critically about what the most important pieces of my story are. It could definitely benefit from further nuance and added context. Still, as it stands it gets across the big points I want my audience to walk away with. I aimed to make it as practically useful as possible; after all, their goal is simple: winning elections. If they come in wanting to know the cheapest way to get more votes, it won’t take them long to get that information. If they want to know whether they should invest in a huge social media ad buy, they’ll get some guidance on that decision – and if they’re skeptical of the data presented, they can review the source more thoroughly. 
 
