@@ -10,5 +10,9 @@ I hope to learn how to communicate complex ideas in a highly accesible way. I al
 # Portfolio
 ## [Visualizing Government Debt](/GovDebtViz.md)
 ## [Redesigning Another's Work](/Redesign.md)
-## [Final Project](/KB_final_project.md)
+## [Final Project Proposal](/KB_final_project.md)
 ## [Final Project Storyboard](/Final_project_storyboard.md)
+## [Final Project Process](/final_project_process.md)
+
+
+
