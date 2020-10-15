@@ -17,8 +17,11 @@ My audience is political strategists and the candidates themselves.
 Fortunately, researchers have already done the work of meta-analyzing the many individual studies that exist on persuasion and GOTV. I use data from the following papers:
 KALLA, J. L., & BROOCKMAN, D. E. (2018). The minimal persuasive effects of campaign contact in general elections: Evidence from 49 field experiments. The American Political Science Review, 112(1), 148-166. doi:http://dx.doi.org.proxy.library.cmu.edu/10.1017/S0003055417000363 
 Green, D. P., & Gerber, A. S. (2019). Get Out the Vote : How to Increase Voter Turnout: Vol. Fourth edition. Brookings Institution Press.
-KALLA, J., & BROOCKMAN, D. (2020). Reducing Exclusionary Attitudes through Interpersonal Conversation: Evidence from Three Field Experiments. American Political Science Review, 114(2), 410-425. doi:10.1017/S0003055419000923  
+KALLA, J., & BROOCKMAN, D. (2020). Reducing Exclusionary Attitudes through Interpersonal Conversation: Evidence from Three Field Experiments. American Political Science Review, 114(2), 410-425. doi:10.1017/S0003055419000923 
+
 Links to extracted data:
+[Persuasion Strategies Treatment Effects](/persuasion_meta_forviz.csv)
+[GOTV Strategy Costs per Vote](/costpervote.csv)
 
 ### Method and Medium
 After collecting high level results from my studies, I create simple graphs in Tableau to get their message across. These are incorporated into a Shorthand story that also features graphics I created in diagrams.net
