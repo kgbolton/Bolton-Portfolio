@@ -32,6 +32,7 @@ The story is told based on my intuition of what would resonate with my hypotheti
 ### Wireframes
 ![](/campaigntactics.png)
 [https://public.tableau.com/views/Costspervote/Sheet1](https://public.tableau.com/views/Costspervote/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+
 [https://public.tableau.com/views/campaignpersuasion/Sheet1](https://public.tableau.com/views/campaignpersuasion/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
 
 
