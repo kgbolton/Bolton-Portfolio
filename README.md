@@ -4,11 +4,13 @@ My name is Katie Bolton, and I'm a CMU Heinz College Master's student studying D
 # Projects
 I strive to communicate complex ideas in a highly accesible way, and to represent data in a way that is both accurate and persuasive. Emphasis on using sound methods and reproducability. 
 
-## [Visualizing Government Debt](/GovDebtViz.md)
+To just skip to the Github repositories, [go here.](https://github.com/kgbolton?tab=repositories)
+
+## [Predicting high failure risk participants in American Dislocated Worker programs (Python, Dask, Scikit-learn)](https://drive.google.com/file/d/14YlSZQm8eM7IiXSoeNS732KwCv2ff-qn/view?usp=sharing)
 ## [A short story about the science of political strategy (Tableau, Shorthand)](https://carnegiemellon.shorthandstories.com/winning-elections/index.html)
-## [Final Project Proposal](/KB_final_project.md)
-## [Final Project Storyboard](/Final_project_storyboard.md)
-## [Final Project Process](/final_project_process.md)
+## [Whose Poll is it Anyway? (Python)](https://colab.research.google.com/drive/1QD6J-DCYqU1jcpsUbYCGKKcFjEX-lNAV?usp=sharing)
+## [Visualizing Government Debt](/GovDebtViz.md)
+
 
 
 
